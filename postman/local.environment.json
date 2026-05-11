@@ -1,0 +1,40 @@
+{
+	"id": "56c84b52-b4a3-41e7-b253-dab0a1c29e8c",
+	"name": "local",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://ecommerce-backend-q0jj.onrender.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "adminToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "productId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-10T13:40:06.286Z",
+	"_postman_exported_using": "Postman/12.9.7-260508-0231"
+}

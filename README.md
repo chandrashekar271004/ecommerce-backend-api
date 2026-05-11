@@ -115,10 +115,10 @@ https://c9565365-9495459.postman.co/workspace/Chandrashekar's-Workspace~bcac3da3
 
 ## Swagger Docs
 
-http://localhost:5000/api/docs
+https://ecommerce-backend-q0jj.onrender.com/api/docs
 
 ---
 
 ## Live API
 
-Add deployed API URL here.
+https://ecommerce-backend-q0jj.onrender.com
